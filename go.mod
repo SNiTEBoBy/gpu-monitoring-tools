@@ -4,10 +4,9 @@ go 1.14
 
 require (
 	github.com/gorilla/mux v1.7.4
-	github.com/sirupsen/logrus v1.4.2
-	github.com/stretchr/testify v1.5.1
+	github.com/sirupsen/logrus v1.8.3
+	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.2.0
-	golang.org/x/sys v0.0.0-20200413165638-669c56c373c4 // indirect
 	google.golang.org/grpc v1.28.1
 	k8s.io/kubernetes v1.18.2
 )
